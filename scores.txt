@@ -1,0 +1,5 @@
+# Player Scores
+# Format: Name: ScoreAnkita De: 1
+Ankita: 3
+Ankita: 2
+Ankita: 0
