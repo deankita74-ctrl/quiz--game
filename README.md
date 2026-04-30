@@ -1,5 +1,3 @@
-# quiz--game
-A Python-based quiz game that asks multiple-choice questions and calculates the user’s score using basic programming concepts.
 🎮 Smart Quiz Game (Python CLI Project)
 
 📌 Overview
@@ -48,7 +46,7 @@ quiz-game/
 
 1️⃣ Prerequisites
 
-Make sure Python is installed on your system.
+Make sure Python is installed on your system:
 
 python --version
 
@@ -70,7 +68,9 @@ python main.py
 
 ---
 
-📊 Sample Output
+📊 Output (VS Code Terminal)
+
+PS C:\Users\Ankita\quiz-game> python main.py
 
 🎮 Welcome to Smart Quiz Game!
 Enter your name: Ankita
@@ -79,19 +79,46 @@ Choose difficulty (easy/medium/hard): medium
 
 🚀 Starting Quiz...
 
+
 Question 1/5
 Capital of India?
 1. Mumbai
 2. Delhi
 3. Kolkata
 4. Chennai
+You have 10 seconds to answer:
 Your answer (1-4): 2
-
 ✅ Correct!
 
+
+Question 2/5
+5 * 6 = ?
+1. 30
+2. 25
+3. 20
+4. 35
+You have 10 seconds to answer:
+Your answer (1-4): 1
+✅ Correct!
+
+
+Question 3/5
+Largest ocean?
+1. Atlantic
+2. Indian
+3. Pacific
+4. Arctic
+You have 10 seconds to answer:
+Your answer (1-4): 3
+✅ Correct!
+
+
 📊 Quiz Completed!
-Score: 4/5
-Accuracy: 80.00%
+✅ Score: 3/3
+📈 Accuracy: 100.00%
+
+Play again? (yes/no): no
+👋 Thank you for playing!
 
 ---
 
@@ -138,4 +165,4 @@ Developed by Ankita De
 
 🌟 Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
+If you found this project useful, consider giving it a ⭐ on GitHub
